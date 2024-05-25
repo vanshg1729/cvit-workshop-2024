@@ -14,3 +14,15 @@
 - Barcode Reader
 
 ## Day 2 - 
+
+
+
+## Day 4
+
+### Session 1
+- Introduction to CLIP
+- Introduction to CLIPCLAP
+
+### Session 2
+- Introduction to WandB
+- Introduction to Ada
