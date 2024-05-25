@@ -17,7 +17,7 @@
 
 
 
-## Day 4
+## Day 4 (24/05/2024)
 
 ### Session 1
 - Introduction to CLIP
